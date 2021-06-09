@@ -1,2 +1,2 @@
-# suresh-techs
-SureshTechs Websites
+# krishna-techs
+krishna Websites
